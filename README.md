@@ -143,5 +143,4 @@ The UI doesn't just show the result; it proves the optimization. The dashboard f
 <img width="1600" height="864" alt="Image" src="https://github.com/user-attachments/assets/09e83ad2-0b40-4a31-a6ca-9723268b0465" />
 <img width="1600" height="907" alt="Image" src="https://github.com/user-attachments/assets/b51f32f5-51e6-40ae-a61d-fb9d6aba0601" />
 
-- **UI Dashboard:** `[Placeholder]`
-- **VRAM Usage Comparison:** `[Placeholder]`
+
