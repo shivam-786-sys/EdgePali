@@ -138,6 +138,19 @@ The UI doesn't just show the result; it proves the optimization. The dashboard f
 
 ---
 
+### 📊 Performance & Evaluation Results
+
+We evaluated Edge-Pali on complex technical documentation to verify VRAM efficiency and model parity.
+
+<div align="center">
+
+| Model/Paper | Input Type | VRAM Optimization | Result Preview |
+| :--- | :--- | :--- | :--- |
+| **LSTM Architecture** | 2-page Technical PDF | ~81.6% Reduction | ![LSTM Test](./test_assets/results/LSTM.png) |
+| **Transformer (Attention Is All You Need)** | 11-page Research Paper | ~80.4% Reduction | ![NIPS Test](./test_assets/results/NIPS-2K17%20Attention.png) |
+
+</div>
+
 ## Screenshots & Localhost Visualization
 
 <img width="1600" height="864" alt="Image" src="https://github.com/user-attachments/assets/09e83ad2-0b40-4a31-a6ca-9723268b0465" />
